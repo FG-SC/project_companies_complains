@@ -107,10 +107,11 @@ if selected_company != 'Todas as Empresas':
 st.title("Dashboard de Análise de Reclamações")
 
 st.markdown("""
-            Feito por [Felipe Gabriel](https://www.linkedin.com/in/felipe-gabriel0/)
+            ### Feito por [Felipe Gabriel](https://www.linkedin.com/in/felipe-gabriel0/)
             
             ### Fonte dos dados:
-            https://docs.google.com/spreadsheets/d/1aTxJq6PMKckLhRQVA6ZdcG3QjMGVZ_QHbjun3Ylq_JA/edit?gid=0#gid=0""")
+            https://docs.google.com/spreadsheets/d/1aTxJq6PMKckLhRQVA6ZdcG3QjMGVZ_QHbjun3Ylq_JA/edit?gid=0#gid=0
+            """)
 
 # Top companies by complaints and cumulative complaints
 
