@@ -3,6 +3,6 @@ nltk==3.8.1
 numpy
 pandas
 plotly
-sentence_transformers==2.2.2
+sentence_transformers
 streamlit
 transformers
