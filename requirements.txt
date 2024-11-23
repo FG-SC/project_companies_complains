@@ -1,4 +1,4 @@
-bertopic==0.15.0
+bertopic
 nltk==3.8.1
 numpy
 pandas
